@@ -1,4 +1,4 @@
-# Prediccion-de-promocion-en-el-empleo
+## Prediccion-de-promocion-en-el-empleo
 **<ins>PREDICCIÓN DE PROMOCIÓN EN EL EMPLEO</ins>**
 
 ![image](https://github.com/davidcarrillo10288/Prediccion-de-promocion-en-el-empleo/assets/104275645/e9a5fa16-c5d0-4b5d-9747-149cd79f950f)
@@ -14,6 +14,6 @@ se requiere que los ayude a identificar a los clientes con alta probabilidad de 
 
 ![image](https://github.com/davidcarrillo10288/Prediccion-de-promocion-en-el-empleo/assets/104275645/4a46c3e1-2afb-492d-b1f1-741eadcdd774)
 
-**<ins>Se tienen las siguientes variables:</ins>**
+## **<ins>Se tienen las siguientes variables:</ins>**
 
 ![image](https://github.com/davidcarrillo10288/Prediccion-de-promocion-en-el-empleo/assets/104275645/ede6de26-d51f-45b0-965f-6bcb2f655a68)
