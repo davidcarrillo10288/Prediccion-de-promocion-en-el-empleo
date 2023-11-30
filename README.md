@@ -1,5 +1,5 @@
 ## Prediccion-de-promocion-en-el-empleo
-**<ins>PREDICCIÓN DE PROMOCIÓN EN EL EMPLEO</ins>**
+## **<ins>PREDICCIÓN DE PROMOCIÓN EN EL EMPLEO</ins>**
 
 ![image](https://github.com/davidcarrillo10288/Prediccion-de-promocion-en-el-empleo/assets/104275645/e9a5fa16-c5d0-4b5d-9747-149cd79f950f)
 
